@@ -1,8 +1,5 @@
 # Dual_Squary_ESP32_Hardware
 
-<img src= "" />
-
-
 This Github provides hardware design files for Dual Squary ESP32 and Common hardware unit.
 
 ### Repository Contents:
